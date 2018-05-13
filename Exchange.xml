@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exchange>
+  <currency>
+    <r030>986</r030>
+    <txt>Бразильський реал</txt>
+    <txt>7.529564</txt>
+    <cc>BRL</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>972</r030>
+    <txt>Сомонi</txt>
+    <txt>2.947106</txt>
+    <cc>TJS</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>643</r030>
+    <txt>Російський рубль</txt>
+    <txt>0.41892</txt>
+    <cc>RUB</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>941</r030>
+    <txt>Сербський динар</txt>
+    <txt>0.268756</txt>
+    <cc>RSD</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>933</r030>
+    <txt>Білоруський рубль</txt>
+    <txt>12.98377</txt>
+    <cc>BYN</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>12</r030>
+    <txt>Алжирський динар</txt>
+    <txt>0.228415</txt>
+    <cc>DZD</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>944</r030>
+    <txt>Азербайджанський манат</txt>
+    <txt>15.409205</txt>
+    <cc>AZN</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>36</r030>
+    <txt>Австралійський долар</txt>
+    <txt>19.609863</txt>
+    <cc>AUD</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>50</r030>
+    <txt>Така</txt>
+    <txt>0.311112</txt>
+    <cc>BDT</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>51</r030>
+    <txt>Вiрменський драм</txt>
+    <txt>0.05419939</txt>
+    <cc>AMD</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>975</r030>
+    <txt>Болгарський лев</txt>
+    <txt>15.90707</txt>
+    <cc>BGN</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>124</r030>
+    <txt>Канадський долар</txt>
+    <txt>20.505568</txt>
+    <cc>CAD</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>156</r030>
+    <txt>Юань Женьмiньбi</txt>
+    <txt>4.125094</txt>
+    <cc>CNY</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>191</r030>
+    <txt>Куна</txt>
+    <txt>4.210739</txt>
+    <cc>HRK</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>203</r030>
+    <txt>Чеська крона</txt>
+    <txt>1.220137</txt>
+    <cc>CZK</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>208</r030>
+    <txt>Данська крона</txt>
+    <txt>4.176204</txt>
+    <cc>DKK</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>344</r030>
+    <txt>Гонконгівський долар</txt>
+    <txt>3.336627</txt>
+    <cc>HKD</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>348</r030>
+    <txt>Форинт</txt>
+    <txt>0.0991271</txt>
+    <cc>HUF</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>356</r030>
+    <txt>Індійська рупія</txt>
+    <txt>0.3894211</txt>
+    <cc>INR</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>360</r030>
+    <txt>Рупія</txt>
+    <txt>0.00186687</txt>
+    <cc>IDR</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>364</r030>
+    <txt>Іранський ріал</txt>
+    <txt>6.236E-4</txt>
+    <cc>IRR</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>368</r030>
+    <txt>Іракський динар</txt>
+    <txt>0.022079</txt>
+    <cc>IQD</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>376</r030>
+    <txt>Новий ізраїльський шекель</txt>
+    <txt>7.315255</txt>
+    <cc>ILS</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>981</r030>
+    <txt>Ларi</txt>
+    <txt>10.641284</txt>
+    <cc>GEL</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>392</r030>
+    <txt>Єна</txt>
+    <txt>0.2389114</txt>
+    <cc>JPY</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>398</r030>
+    <txt>Теньге</txt>
+    <txt>0.079944</txt>
+    <cc>KZT</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>410</r030>
+    <txt>Вона</txt>
+    <txt>0.0244826</txt>
+    <cc>KRW</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>417</r030>
+    <txt>Сом</txt>
+    <txt>0.380709</txt>
+    <cc>KGS</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>422</r030>
+    <txt>Ліванський фунт</txt>
+    <txt>0.0174057</txt>
+    <cc>LBP</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>458</r030>
+    <txt>Малайзійський ринггіт</txt>
+    <txt>6.694363</txt>
+    <cc>MYR</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>484</r030>
+    <txt>Мексиканське песо</txt>
+    <txt>1.349392</txt>
+    <cc>MXN</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>498</r030>
+    <txt>Молдовський лей</txt>
+    <txt>1.579725</txt>
+    <cc>MDL</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>504</r030>
+    <txt>Марокканський дирхам</txt>
+    <txt>2.821743</txt>
+    <cc>MAD</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>554</r030>
+    <txt>Новозеландський долар</txt>
+    <txt>18.146901</txt>
+    <cc>NZD</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>578</r030>
+    <txt>Норвезька крона</txt>
+    <txt>3.258725</txt>
+    <cc>NOK</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>586</r030>
+    <txt>Пакистанська рупія</txt>
+    <txt>0.226704</txt>
+    <cc>PKR</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>946</r030>
+    <txt>Румунський лей</txt>
+    <txt>6.706702</txt>
+    <cc>RON</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>682</r030>
+    <txt>Саудівський рiял</txt>
+    <txt>6.985506</txt>
+    <cc>SAR</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>702</r030>
+    <txt>Сінгапурський долар</txt>
+    <txt>19.53598</txt>
+    <cc>SGD</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>704</r030>
+    <txt>Донг</txt>
+    <txt>0.0011507</txt>
+    <cc>VND</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>710</r030>
+    <txt>Ренд</txt>
+    <txt>2.11299</txt>
+    <cc>ZAR</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>752</r030>
+    <txt>Шведська крона</txt>
+    <txt>3.016098</txt>
+    <cc>SEK</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>756</r030>
+    <txt>Швейцарський франк</txt>
+    <txt>26.126174</txt>
+    <cc>CHF</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>764</r030>
+    <txt>Бат</txt>
+    <txt>0.81697</txt>
+    <cc>THB</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>784</r030>
+    <txt>Дирхам ОАЕ</txt>
+    <txt>7.132337</txt>
+    <cc>AED</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>788</r030>
+    <txt>Туніський динар</txt>
+    <txt>10.777441</txt>
+    <cc>TND</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>949</r030>
+    <txt>Турецька ліра</txt>
+    <txt>6.169277</txt>
+    <cc>TRY</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>934</r030>
+    <txt>Туркменський новий манат</txt>
+    <txt>7.484471</txt>
+    <cc>TMT</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>818</r030>
+    <txt>Єгипетський фунт</txt>
+    <txt>1.477954</txt>
+    <cc>EGP</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>826</r030>
+    <txt>Фунт стерлінгів</txt>
+    <txt>35.42996</txt>
+    <cc>GBP</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>840</r030>
+    <txt>Долар США</txt>
+    <txt>26.19216</txt>
+    <cc>USD</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>860</r030>
+    <txt>Узбецький сум</txt>
+    <txt>0.003247</txt>
+    <cc>UZS</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>901</r030>
+    <txt>Новий тайванський долар</txt>
+    <txt>0.883675</txt>
+    <cc>TWD</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>959</r030>
+    <txt>Золото</txt>
+    <txt>34437.452</txt>
+    <cc>XAU</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>960</r030>
+    <txt>СПЗ(спец.права запозичення)</txt>
+    <txt>37.395949</txt>
+    <cc>XDR</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>961</r030>
+    <txt>Срiбло</txt>
+    <txt>430.599</txt>
+    <cc>XAG</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>962</r030>
+    <txt>Платина</txt>
+    <txt>23913.442</txt>
+    <cc>XPT</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>964</r030>
+    <txt>Паладiй</txt>
+    <txt>25563.548</txt>
+    <cc>XPD</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>978</r030>
+    <txt>Євро</txt>
+    <txt>31.111048</txt>
+    <cc>EUR</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+  <currency>
+    <r030>985</r030>
+    <txt>Злотий</txt>
+    <txt>7.330077</txt>
+    <cc>PLN</cc>
+    <exchangedate>13.05.2018</exchangedate>
+  </currency>
+</exchange>
